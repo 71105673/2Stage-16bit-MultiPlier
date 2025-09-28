@@ -23,6 +23,7 @@
    - 이론적으로 15개의 32bit Adder 필요  
    - Wallace Tree 구조를 통해 효율적 합산  
 
+![alt text](<image/스크린샷 2025-09-28 173257.png>) ![alt text](<image/스크린샷 2025-09-28 173303.png>)
 ---
 
 ## 🧩 블록 설계
@@ -43,6 +44,13 @@
 - **예측 결과** vs **실제 시뮬레이션 결과** 비교  
 - 성능 지표: Power, Performance, Area, Clock Speed  
 
+### 전체 구조
+![alt text](<image/스크린샷 2025-09-28 173315.png>)
+![alt text](<image/스크린샷 2025-09-28 173343.png>)
+### 4x4 Multiplier 구조
+![alt text](<image/스크린샷 2025-09-28 173326.png>)
+### TSPC 구조 D-FF
+![alt text](<image/스크린샷 2025-09-28 173334.png>)
 ---
 
 ## ✅ 결과
